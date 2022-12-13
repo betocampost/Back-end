@@ -1,6 +1,4 @@
-/**
- * Product Class
- */
+
 export class Product {
   /**
    *

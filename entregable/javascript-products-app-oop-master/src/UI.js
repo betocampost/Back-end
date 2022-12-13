@@ -1,10 +1,8 @@
-/**
- * User Interface Class
- */
+
 export class UI {
   /**
-   * Add a New Product 
-   * @param {Object} product A new product Object
+
+   * @param {Object} product
    */
   addProduct(product) {
     const productList = document.getElementById("product-list");
@@ -13,7 +11,7 @@ export class UI {
             <div class="card text-center mb-4">
                 <div class="card-body">
                     <strong>Product</strong>: ${product.name} -
-                    <strong>Price</strong>: ${product.price} - 
+                    <strong>Price</strong>: ${product.price} -
                     <strong>Year</strong>: ${product.year}
                     <a href="#" class="btn btn-danger" name="delete">Delete</a>
                 </div>
@@ -22,9 +20,7 @@ export class UI {
     productList.appendChild(element);
   }
 
-  /**
-   * Reset Form Values
-   */
+
   resetForm() {
     document.getElementById("product-form").reset();
   }
@@ -41,14 +37,11 @@ export class UI {
     div.className = `alert alert-${cssClass} mt-2`;
     div.appendChild(document.createTextNode(message));
 
-    // Show in The DOM
     const container = document.querySelector(".container");
     const app = document.querySelector("#App");
 
-    // Insert Message in the UI
     container.insertBefore(div, app);
 
-    // Remove the Message after 3 seconds
     setTimeout(function () {
       document.querySelector(".alert").remove();
     }, 3000);
