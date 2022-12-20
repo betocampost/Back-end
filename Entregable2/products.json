@@ -1,0 +1,159 @@
+[
+	{
+		"title": "Playera",
+		"description": "Playera de algodon",
+		"price": 1000,
+		"thumbnail": "https://articulo.mercadolibre.com.mx/MLM-1366810259-pack-de-playeras-para-caballero-set-algodon-suave-comoda-_JM?matt_tool=71359993&matt_word=&matt_source=google&matt_campaign_id=15694666068&matt_ad_group_id=141513595900&matt_match_type=&matt_network=g&matt_device=c&matt_creative=619467306373&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=519782667&matt_product_id=MLM1366810259-174106303519&matt_product_partition_id=1426844739084&matt_target_id=pla-1426844739084&gclid=Cj0KCQiAtICdBhCLARIsALUBFcG2nlPLv1M6KG6xxr1N1NJKgaX8MJKye7SAotbN9Qua3zHzWqqr9VYaAr-2EALw_wcB",
+		"code": "123456",
+		"stock": 10,
+		"id": 1
+	},
+
+  {
+		"title": "Pantalon",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://www.amazon.com.mx/Jean-Stretch-Skinny-para-Hombre/dp/B0961G9QJJ/ref=asc_df_B0961G9QJJ/?tag=gledskshopmx-20&linkCode=df0&hvadid=529618819821&hvpos=&hvnetw=g&hvrand=16678547589801135200&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-1346542955971&th=1&psc=1",
+		"code": "3435353",
+		"stock": 15,
+		"id": 7
+	},
+	{
+		"title": "Pans",
+		"description": "Pans de poliester",
+		"price": 3333,
+		"thumbnail": "https://www.shein.com.mx/2pcs-Solid-Drawstring-Waist-Joggers-p-6258032-cat-2709.html?url_from=mxadplasw2110235965529576S_GPM&cid=18874935974&setid=&adid=&pf=GOOGLE&gclid=Cj0KCQiAtICdBhCLARIsALUBFcHW6uJjIi-6h1BR8WdHlZh0jVV7XpnsDUZy2xaVaxUQ_UlwGZJ2-RoaAjulEALw_wcB",
+		"code": "3435353",
+		"stock": 15,
+		"id": 8
+	},
+	{
+		"title": "Pantalon",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://www2.hm.com/es_mx/productpage.1008549001.html?gclid=Cj0KCQiAtICdBhCLARIsALUBFcGnncP9mciwsJVzUQGpSSDKuLcoHl79TmAVDsdRdrIojRoBLkKV--caAk_uEALw_wcB",
+		"code": "3435353",
+		"stock": 15,
+		"id": 9
+	},
+	{
+		"title": "Remera",
+		"description": "Remera de algodon",
+		"price": 1000,
+		"thumbnail": "https://www.shein.com.mx/Solid-Crew-Neck-Tee-p-1780205-cat-1738.html?url_from=mxadplaswtee24201027120S_GPM&cid=17794475978&setid=&adid=&pf=GOOGLE&gclid=Cj0KCQiAtICdBhCLARIsALUBFcH76WOCuurxZbo6uJdEwaHypaRZ21rz5H9-XwnHTNKqz09sNUHTHY4aApmvEALw_wcB",
+		"code": "123456",
+		"stock": 10,
+		"id": 10
+	},
+	{
+		"title": "Camisa",
+		"description": "Camisa de algodon",
+		"price": 2222,
+		"thumbnail": "https://www.amazon.com.mx/JOHN-LEOPARD-Camisa-Hombre-Blanca/dp/B08VC2DMFK/ref=asc_df_B08VC2DMFK/?tag=gledskshopmx-20&linkCode=df0&hvadid=502342281519&hvpos=&hvnetw=g&hvrand=10167465575070040143&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-1211120802906&th=1&psc=1",
+		"code": "234567",
+		"stock": 5,
+		"id": 11
+	},
+	{
+		"title": "Cinturon",
+		"description": "Cinturon de cuero",
+		"price": 789876554,
+		"thumbnail": "https://www.amazon.com.mx/BULLIANT-Cintur%C3%B3n-Reversible-Cintura-Invertire/dp/B074J8CRBV/ref=asc_df_B074J8CRBV/?tag=gledskshopmx-20&linkCode=df0&hvadid=360743496854&hvpos=&hvnetw=g&hvrand=3538250477730434418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-566803527982&psc=1",
+		"code": "9876543",
+		"stock": 111,
+		"id": 12
+	},
+
+
+	{
+		"title": "Remera",
+		"description": "Remera de algodon",
+		"price": 1000,
+		"thumbnail": "https://www.amazon.com.mx/JOHN-LEOPARD-Camisa-Hombre-Blanca/dp/B08VC2DMFK/ref=asc_df_B08VC2DMFK/?tag=gledskshopmx-20&linkCode=df0&hvadid=502342281519&hvpos=&hvnetw=g&hvrand=10167465575070040143&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-1211120802906&psc=1",
+		"code": "123456",
+		"stock": 10,
+		"id": 15
+	},
+	{
+		"title": "Camisa",
+		"description": "Camisa de algodon",
+		"price": 2222,
+		"thumbnail": "https://www.amazon.com.mx/JOHN-LEOPARD-Camisa-Hombre-Blanca/dp/B08VC2DMFK/ref=asc_df_B08VC2DMFK/?tag=gledskshopmx-20&linkCode=df0&hvadid=502342281519&hvpos=&hvnetw=g&hvrand=10167465575070040143&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-1211120802906&psc=1",
+		"code": "234567",
+		"stock": 5,
+		"id": 16
+	},
+	{
+		"title": "Cinturon",
+		"description": "Cinturon de cuero",
+		"price": 789876554,
+		"thumbnail": "https://www.amazon.com.mx/BULLIANT-Cintur%C3%B3n-Reversible-Cintura-Invertire/dp/B074J8CRBV/ref=asc_df_B074J8CRBV/?tag=gledskshopmx-20&linkCode=df0&hvadid=360743496854&hvpos=&hvnetw=g&hvrand=3538250477730434418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-566803527982&th=1&psc=1",
+		"code": "9876543",
+		"stock": 111,
+		"id": 17
+	},
+	{
+		"title": "Pantalon",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://www2.hm.com/es_mx/productpage.1008549001.html?gclid=Cj0KCQiAtICdBhCLARIsALUBFcGnncP9mciwsJVzUQGpSSDKuLcoHl79TmAVDsdRdrIojRoBLkKV--caAk_uEALw_wcB",
+		"code": "3435353",
+		"stock": 15,
+		"id": 18
+	},
+
+	{
+		"title": "Pantalon",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://google.com.ar",
+		"code": "3435353",
+		"stock": 15,
+		"id": 19
+	},
+	{
+		"title": "Remera",
+		"description": "Remera de algodon",
+		"price": 1000,
+		"thumbnail": "https://www.shein.com.mx/Solid-Crew-Neck-Tee-p-1780205-cat-1738.html?url_from=mxadplaswtee24201027120S_GPM&cid=17794475978&setid=&adid=&pf=GOOGLE&gclid=Cj0KCQiAtICdBhCLARIsALUBFcH76WOCuurxZbo6uJdEwaHypaRZ21rz5H9-XwnHTNKqz09sNUHTHY4aApmvEALw_wcB",
+		"code": "123456",
+		"stock": 10,
+		"id": 20
+	},
+	{
+		"title": "Camisa",
+		"description": "Camisa de algodon",
+		"price": 2222,
+		"thumbnail": "https://www.amazon.com.mx/JOHN-LEOPARD-Camisa-Hombre-Blanca/dp/B08VC2DMFK/ref=asc_df_B08VC2DMFK/?tag=gledskshopmx-20&linkCode=df0&hvadid=502342281519&hvpos=&hvnetw=g&hvrand=10167465575070040143&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-1211120802906&th=1&psc=1",
+		"code": "234567",
+		"stock": 5,
+		"id": 21
+	},
+	{
+		"title": "Cinturon",
+		"description": "Cinturon de cuero",
+		"price": 789876554,
+		"thumbnail": "https://www.amazon.com.mx/BULLIANT-Cintur%C3%B3n-Reversible-Cintura-Invertire/dp/B074J8CRBV/ref=asc_df_B074J8CRBV/?tag=gledskshopmx-20&linkCode=df0&hvadid=360743496854&hvpos=&hvnetw=g&hvrand=3538250477730434418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-566803527982&th=1&psc=1https://google.com.ar",
+		"code": "9876543",
+		"stock": 111,
+		"id": 22
+	},
+	{
+		"title": "Pantalon",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://www.amazon.com.mx/YouthGo-Deportivos-Pantalones-Pantal%C3%B3n-Bolsillos/dp/B09DV8MMHV/ref=asc_df_B09DV8MMHV/?tag=gledskshopmx-20&linkCode=df0&hvadid=553921409231&hvpos=&hvnetw=g&hvrand=9268931174466071751&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010000&hvtargid=pla-1451045689622&th=1&psc=1",
+		"code": "3435353",
+		"stock": 15,
+		"id": 23
+	},
+	{
+		"title": "Pantalon",
+		"description": "Pantalon de mezclilla",
+		"price": 3333,
+		"thumbnail": "https://www2.hm.com/es_mx/productpage.1008549001.html?gclid=Cj0KCQiAtICdBhCLARIsALUBFcGnncP9mciwsJVzUQGpSSDKuLcoHl79TmAVDsdRdrIojRoBLkKV--caAk_uEALw_wcB",
+		"code": "3435353",
+		"stock": 15,
+		"id": 24
+	}
+]
