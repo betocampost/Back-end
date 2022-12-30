@@ -2,8 +2,27 @@ import express from "express";
 import path from "path";
 import ProductManager from "./ProductManager.js";
 
+
+const express = require('express');
+const bodyParser = require('body-require');
+
 const app = express();
-const port = 3000;
+const port = process.env.port || 8080
+
+app.use(bodyParser.urlencoded({extended:true}))
+apr.use(bodyParser.json())
+
+app.get('/name/:id'), (req, res)=>{
+  res.send({message : "Productos: ${req.params.name}!"})
+}
+
+
+app.listen(port, () => {
+  console.log('Api REST corriendo en http://localhost:${port}');
+})
+
+
+//----------------------------------------------------------------------------------------------//
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
