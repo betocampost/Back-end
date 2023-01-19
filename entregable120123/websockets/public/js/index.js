@@ -39,7 +39,7 @@ socket.on("messageLogs", (data) => {
 
   data.forEach((elem) => {
     message += `
-   
+
       <div class="chat-message">
       <div class="message-bubble">
 
@@ -89,3 +89,23 @@ function firstLoad() {
 }
 
 firstLoad();
+
+let Mongoclient =require('mongodb').Mongoclient;
+const connectionString=
+"mongofb://localhost:27017/ecommerce";
+
+const initMongo = async () => {
+  try{
+    console.log("Conectado a mi Base de Datos");
+    console.log(connectionString);
+    await Mongoclient.connect(connectionString);
+
+    console.log("Ya estoy conectado");
+
+  }catch (error){
+    console.log('ERROR =>${error}');
+    return error;
+  }
+};
+
+module.exports=initMongoDB
