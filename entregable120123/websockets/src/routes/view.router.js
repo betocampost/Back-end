@@ -184,3 +184,4 @@ BandSchema.virtual('numMembers', {
 const doc = await Band.findOne({ name: 'Motley Crue' }).
   populate('numMembers');
 doc.numMembers;
+
